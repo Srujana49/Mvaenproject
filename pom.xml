@@ -11,7 +11,7 @@
     <artifactId>devopsvtumaven</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <!-- Updated Maven project for Jenkins CI -->
     <!-- Dependencies -->
     <dependencies>
 
